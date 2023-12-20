@@ -2711,3 +2711,5 @@ section2:button({name = "blade ball op script",callback = function()
 section2:button({name = "LUNA ESP (WORKING?!)",callback = function()
             loadstring(game:HttpGet("https://raw.githubusercontent.com/ArcherDevelopment/LUNAESP/main/lunaesp.lua"))()
         end})
+
+local section3 = tab:section({name = "OP HAC🎯🎃",side = "left",size = 250})
