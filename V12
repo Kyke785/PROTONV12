@@ -49,7 +49,7 @@ pcall(function()
 end)
 end})
 
-section1:button({name = "ESP 😎",callback = function()
+section1:button({name = "ESP (PATCHED)!!",callback = function()
 --[[
 v1.7.2 Changes
 - Made a few synchronization changes to prevent errors on Synapse
