@@ -100,7 +100,7 @@ RunService.Heartbeat:Connect(function()
             task.wait()
         end
 end
-end)
+end
 end})
 
 local section2 = tab:section({name = "FPS SCRIPT",side = "left",size = 250})
